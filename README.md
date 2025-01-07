@@ -1,5 +1,5 @@
 HTML Web Design using,
-1. Hyperlinks (<a> tag>
+1. Hyperlinks (<a> tag>)
 2. Tables
 
 1. Hyperlinks (<a> tag>
