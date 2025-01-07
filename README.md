@@ -1,8 +1,8 @@
 HTML Web Design using,
-1. Hyperlinks (<a> tag>)
+1. Hyperlinks
 2. Tables
 
-1. Hyperlinks (<a> tag)
+1. Hyperlinks
    Hyperlinks, also known as links, are a fundamental element of HTML that enable navigation between different web pages, sections of the same page, or other resources on the web. They are created using the <a> (anchor) tag.
    Syntax: <a href="URL">Link Text</a>
 
