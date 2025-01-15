@@ -1,0 +1,49 @@
+        img{
+             display:block;
+             margin-left: 400px;
+             padding:10px;
+             border:5px solid white;
+        }
+        .five{
+             color:yellow;
+             font-size:20px;
+             display:block;
+             margin-left: 190px;
+        }
+                p{
+                    color:brown;
+                    font-size:20px;
+                }
+                div{
+                    background-color:grey;
+                }
+                .one{
+                    color:orange;
+                    font-size:20px;
+                }
+                .two{
+                    color:white;
+                    font-size:25px;
+                }
+                #three{
+                    color:orange;
+                    font-size:30px;
+                }
+                #four{
+                    color:green;
+                    font-size:35px;
+                }
+                 .div{
+                   background-color:grey;
+                   border:50px solid yellow;
+                }
+                .six{
+                 background-color:black;
+                 border:50px solid grey;
+                }
+                .seven{
+                  background-color:yellow;
+                  border:20px solid black;
+                  margin:100px;
+                  padding:50px;
+                }
